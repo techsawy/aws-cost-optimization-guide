@@ -1,5 +1,7 @@
 # 💰 AWS Cost Optimization Guide (Real-World Approach)
 
+AWS cost optimization guide | Reduce EC2 cost, EBS cost, cloud bill optimization strategies
+
 ## 🚨 Problem
 
 Many organizations spend 30–50% extra on AWS due to:
@@ -12,7 +14,11 @@ Many organizations spend 30–50% extra on AWS due to:
 ---
 
 ## 🎯 Objective
+## 📊 Cost Optimization Example
 
+| Scenario | Before | After |
+|---------|--------|-------|
+| EC2 Cost | ₹50,000 | ₹30,000 |
 Reduce AWS cost without impacting performance or availability.
 
 ---
@@ -51,6 +57,7 @@ Reduce AWS cost without impacting performance or availability.
 | Storage | 10–30%  |
 | Overall | 30–50%  |
 
+
 ---
 
 ## 🛠 Tools Used
@@ -60,8 +67,10 @@ Reduce AWS cost without impacting performance or availability.
 * Trusted Advisor
 
 ---
+## 👤 Author
+Sujith Rajendran  
+Cloud Infrastructure Architect  
 
-## 💼 Consulting
+📩 Available for consulting
 
-I help companies reduce AWS cost.
-Available for freelance cloud consulting.
+
