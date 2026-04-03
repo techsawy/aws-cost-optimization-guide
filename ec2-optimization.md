@@ -29,7 +29,16 @@ Many EC2 instances run without proper utilization, leading to high costs.
 * Ideal for non-critical workloads
 
 ---
+## 📉 Expected Outcome
 
-## 💡 Real-World Example
+## 📊 Cost Optimization Example
 
-Reduced EC2 cost from ₹50,000 → ₹30,000/month by rightsizing + scheduling
+| Scenario | Before | After |
+|---------|--------|-------|
+| EC2 Cost | ₹50,000 | ₹30,000 |
+
+## 👤 Author
+Sujith Rajendran  
+Cloud Infrastructure Architect  
+
+📩 Available for consulting
